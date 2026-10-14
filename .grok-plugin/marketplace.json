@@ -428,7 +428,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Automattic/grok-jetpack-plugin.git",
-        "sha": "86ed3f74d385a51c92f6b01b8a40ad415209f339"
+        "sha": "689e4197c512ab25f74841f244d61cac28a52a15"
       },
       "homepage": "https://jetpack.com",
       "keywords": ["jetpack", "wordpress", "website", "jetpack mcp"],
